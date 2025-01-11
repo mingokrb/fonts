@@ -1,2 +1,4 @@
-fontes extraídas do whatsapp v2.24.24.79
-fonts ripped/extracted from whatsapp v2.24.24.79
+fontes extraídas do whatsapp
+fonts ripped/extracted from whatsapp
+
+whatsapp android v2.24.24.79
